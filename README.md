@@ -1,9 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-First, ensure that you are using minimally Node v20. 
-Second, ensure that your utils folder has the ABI of your tokens and the token swap contract.
-Third, after deploying your token swap smart contract, be sure to change the contract address in Swap.tsx
+1. First, ensure that you are using minimally Node v20. 
+2. Second, ensure that your utils folder has the ABI of your tokens and the token swap contract.
+3. Third, after deploying your token swap smart contract on Remix or hardhat, be sure to change the contract address in Swap.tsx
 
 Once ready, run the development server:
 
