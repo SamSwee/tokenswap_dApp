@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is a project created for the StackUp x DeFiChain Learn and Earn Campaign from 3 Nov to 17 Nov 2023. The smart contracts here are meant to be deployed on the MetaChain Testnet, of chain ID 1131.
 ## Getting Started
 1. First, ensure that you are using minimally Node v20. 
 2. Second, ensure that your utils folder has the ABI of your tokens and the token swap contract.
